@@ -12,6 +12,7 @@ I decided to write some small specialized pager for usage as `psql` pager.
 
 ## Screenshots
 ![Screenshot](screenshots/theme1.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpspg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpspg?ref=badge_shield)
 
 ![Screenshot](screenshots/theme3.gif)
 
@@ -124,3 +125,7 @@ If you like it, send a postcard from your home country to my address, please:
 
 
 I invite any questions, comments, bug reports, patches on mail address pavel.stehule@gmail.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpspg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpspg?ref=badge_large)
